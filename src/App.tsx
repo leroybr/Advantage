@@ -747,7 +747,7 @@ export default function App() {
                               <MessageCircle size={24} strokeWidth={1} className="group-hover:scale-110 transition-transform" />
                               <span className="text-[10px] uppercase tracking-widest font-bold text-slate-700">WhatsApp</span>
                             </a>
-                        <a href="https://www.instagram.com/vidriointeligente/" target="_blank" rel="noopener noreferrer" className="flex items-center p-6 bg-white hover:bg-slate-100 transition-colors rounded-sm space-x-4 border border-slate-100 group">
+                        <a href="https://www.instagram.com/vibbsmart?utm_source=qr" target="_blank" rel="noopener noreferrer" className="flex items-center p-6 bg-white hover:bg-slate-100 transition-colors rounded-sm space-x-4 border border-slate-100 group">
                           <Instagram size={24} strokeWidth={1} />
                           <span className="text-[10px] uppercase tracking-widest font-medium text-slate-700">Instagram</span>
                         </a>
